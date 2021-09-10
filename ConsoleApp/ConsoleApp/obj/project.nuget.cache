@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g/5Mboiuupx3aQQbHz5sCcp1Zia776XOYgXs9p4V7nCZsUx/thspBia2Pw0mL0E+tovp1rDcwbvRW3ioqTBzWQ==",
+  "dgSpecHash": "SVnanlZFlhTylp4yWpDxTG0/mvHom5gsX1m+gsaMxvjJu6ceDib63nC4EDvOtSnMpIyH4fZDZyd//pYe01vYng==",
   "success": true,
-  "projectFilePath": "C:\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "projectFilePath": "C:\\GitHub\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

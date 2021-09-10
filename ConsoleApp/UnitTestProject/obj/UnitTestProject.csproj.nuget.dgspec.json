@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Jenkins\\msbuild_project\\ConsoleApp\\UnitTestProject\\UnitTestProject.csproj": {}
+    "C:\\GitHub\\msbuild_project\\ConsoleApp\\UnitTestProject\\UnitTestProject.csproj": {}
   },
   "projects": {
-    "C:\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\GitHub\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\GitHub\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\GitHub\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\darroyo\\.nuget\\packages\\",
-        "outputPath": "C:\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\GitHub\\msbuild_project\\ConsoleApp\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Jenkins\\msbuild_project\\ConsoleApp\\UnitTestProject\\UnitTestProject.csproj": {
+    "C:\\GitHub\\msbuild_project\\ConsoleApp\\UnitTestProject\\UnitTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Jenkins\\msbuild_project\\ConsoleApp\\UnitTestProject\\UnitTestProject.csproj",
+        "projectUniqueName": "C:\\GitHub\\msbuild_project\\ConsoleApp\\UnitTestProject\\UnitTestProject.csproj",
         "projectName": "UnitTestProject",
-        "projectPath": "C:\\Jenkins\\msbuild_project\\ConsoleApp\\UnitTestProject\\UnitTestProject.csproj",
+        "projectPath": "C:\\GitHub\\msbuild_project\\ConsoleApp\\UnitTestProject\\UnitTestProject.csproj",
         "packagesPath": "C:\\Users\\darroyo\\.nuget\\packages\\",
-        "outputPath": "C:\\Jenkins\\msbuild_project\\ConsoleApp\\UnitTestProject\\obj\\",
+        "outputPath": "C:\\GitHub\\msbuild_project\\ConsoleApp\\UnitTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
-                "projectPath": "C:\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj"
+              "C:\\GitHub\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
+                "projectPath": "C:\\GitHub\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj"
               }
             }
           }

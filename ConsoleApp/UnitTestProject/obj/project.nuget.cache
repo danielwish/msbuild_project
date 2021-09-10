@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "08z202dEooCU1p/nIrSe8oTCp5tRZ3xqQsKl0VcBJizXSv44VhZuyL5Nx/1v3X1usqqBT3bJISRcmasUm5poAw==",
+  "dgSpecHash": "6tEOedw2clf62h5zCYYOsnwFX1BhzYWOwCP8g9Qb1vh8ksxmUPpFU7ovDP9XLMkJr6B+5cEH9w+toyvvf7jk3g==",
   "success": true,
-  "projectFilePath": "C:\\Jenkins\\msbuild_project\\ConsoleApp\\UnitTestProject\\UnitTestProject.csproj",
+  "projectFilePath": "C:\\GitHub\\msbuild_project\\ConsoleApp\\UnitTestProject\\UnitTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\darroyo\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\darroyo\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
